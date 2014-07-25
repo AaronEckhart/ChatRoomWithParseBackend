@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F1341E3F-E40B-4317-919F-6BD50B238B52</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PushSpar</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>61A72EA5-E016-40EA-AC95-5D59B8439831</key>
+		<string>https://github.com/AaronEckhart/ChatRoomWithParseBackend.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PushSpar.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>61A72EA5-E016-40EA-AC95-5D59B8439831</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/AaronEckhart/ChatRoomWithParseBackend.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>61A72EA5-E016-40EA-AC95-5D59B8439831</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>61A72EA5-E016-40EA-AC95-5D59B8439831</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PushSpar</string>
+		</dict>
+	</array>
+</dict>
+</plist>
